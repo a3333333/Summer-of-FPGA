@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2021.2 (64-bit)
+# SW Build 3367213 on Tue Oct 19 02:48:09 MDT 2021
+# IP Build 3369179 on Thu Oct 21 08:25:16 MDT 2021
+# Start of session at: Sun Jan  2 13:44:46 2022
+# Process ID: 15188
+# Current directory: C:/Xilinx/workspace/arduinoToCmodS7Comm/arduinoToCmodS7Comm.runs/synth_1
+# Command line: vivado.exe -log echoBlock.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source echoBlock.tcl
+# Log file: C:/Xilinx/workspace/arduinoToCmodS7Comm/arduinoToCmodS7Comm.runs/synth_1/echoBlock.vds
+# Journal file: C:/Xilinx/workspace/arduinoToCmodS7Comm/arduinoToCmodS7Comm.runs/synth_1\vivado.jou
+# Running On: LAPTOP-SMK41NDJ, OS: Windows, CPU Frequency: 2096 MHz, CPU Physical cores: 12, Host memory: 7886 MB
+#-----------------------------------------------------------
+source echoBlock.tcl -notrace
