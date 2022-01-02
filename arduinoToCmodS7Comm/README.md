@@ -14,5 +14,7 @@ Arduino Board: Arduino Uno
 IDE: Arduino IDE
 
 **Links**<br />
+for detalied info:<br />
+https://community.element14.com/challenges-projects/design-challenges/summer-of-fpga/b/blog/posts/audio-synth-3---fpga-to-arduino-comm
 
 https://community.element14.com/challenges-projects/design-challenges/summer-of-fpga/
