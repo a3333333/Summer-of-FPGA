@@ -40,7 +40,7 @@ module testbench(
     inWire = #10 0;
     inWire = #10 1; */
         for(i=0; i< CLK_TICKS; i=i+1) begin
-            $display("CONTER VALUE IS %d", i);
+            $display("COUNTER VALUE IS %d", i);
             inWire = #10 1;
             inWire = #10 0;
         end
