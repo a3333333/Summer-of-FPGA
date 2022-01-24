@@ -2,7 +2,7 @@
 ## Sound Generation
 
 **Project**<br />
-Generate 440Hz with Cmod S7 board. Square wave 50% duty cycle. Verilog.  
+Generate 400Hz pitch with Cmod S7 board. Square wave 50% duty cycle. Verilog.  
 
 **Settings**<br />
 Board: Digilent Cmod S7<br />
@@ -13,3 +13,5 @@ Project directory: /C/Xilinx/workspace<br />
 **Links**<br />
 
 https://community.element14.com/challenges-projects/design-challenges/summer-of-fpga/
+
+https://community.element14.com/challenges-projects/design-challenges/summer-of-fpga/b/blog/posts/audio-synth-6---sound-generation-with-cmods7
